@@ -1,0 +1,1105 @@
+category =
+{
+ name = "Voices"
+ soundeffects = {
+	### European Spanish Dialect, ripped from Call of Duty: Ghosts by NooN ###
+	# SPA SPR SWF
+	# BAS CAT GLC ADU
+	SPA_infantry_idle
+	SPA_infantry_neutral_combat
+	SPA_infantry_positive_combat
+	SPA_infantry_retreat
+	SPA_infantry_move_out
+
+	SPR_infantry_idle
+	SPR_infantry_neutral_combat
+	SPR_infantry_positive_combat
+	SPR_infantry_retreat
+	SPR_infantry_move_out
+
+	SWF_infantry_idle
+	SWF_infantry_neutral_combat
+	SWF_infantry_positive_combat
+	SWF_infantry_retreat
+	SWF_infantry_move_out
+
+	BAS_infantry_idle
+	BAS_infantry_neutral_combat
+	BAS_infantry_positive_combat
+	BAS_infantry_retreat
+	BAS_infantry_move_out
+
+	CAT_infantry_idle
+	CAT_infantry_neutral_combat
+	CAT_infantry_positive_combat
+	CAT_infantry_retreat
+	CAT_infantry_move_out
+
+	GLC_infantry_idle
+	GLC_infantry_neutral_combat
+	GLC_infantry_positive_combat
+	GLC_infantry_retreat
+	GLC_infantry_move_out
+
+	ADU_infantry_idle
+	ADU_infantry_neutral_combat
+	ADU_infantry_positive_combat
+	ADU_infantry_retreat
+	ADU_infantry_move_out
+ }
+  compressor =
+ {
+	enabled = yes
+	pregain = 0.0
+	postgain = 2.0
+	ratio = 10.0
+	threshold = -10.0
+	attacktime = 0.030
+	releasetime = 1.2
+ }
+}
+
+########### AUDIO ASSETS
+########### SPA, Source for this is the PC rip of Call of Duty Ghosts
+sound =
+{
+	name = "spanish_Idle_001"
+	file = "spanish/spanish_Idle_001.wav"
+}
+sound =
+{
+	name = "spanish_Idle_002"
+	file = "spanish/spanish_Idle_002.wav"
+}
+sound =
+{
+	name = "spanish_Idle_003"
+	file = "spanish/spanish_Idle_003.wav"
+}
+sound =
+{
+	name = "spanish_Idle_004"
+	file = "spanish/spanish_Idle_004.wav"
+}
+sound =
+{
+	name = "spanish_Idle_005"
+	file = "spanish/spanish_Idle_005.wav"
+}
+sound =
+{
+	name = "spanish_Idle_006"
+	file = "spanish/spanish_Idle_006.wav"
+}
+sound =
+{
+	name = "spanish_Idle_007"
+	file = "spanish/spanish_Idle_007.wav"
+}
+sound =
+{
+	name = "spanish_Idle_008"
+	file = "spanish/spanish_Idle_008.wav"
+}
+sound =
+{
+	name = "spanish_Idle_009"
+	file = "spanish/spanish_Idle_009.wav"
+}
+sound =
+{
+	name = "spanish_Idle_010"
+	file = "spanish/spanish_Idle_010.wav"
+}
+sound =
+{
+	name = "spanish_Idle_011"
+	file = "spanish/spanish_Idle_011.wav"
+}
+sound =
+{
+	name = "spanish_Idle_012"
+	file = "spanish/spanish_Idle_012.wav"
+}
+sound =
+{
+	name = "spanish_Idle_013"
+	file = "spanish/spanish_Idle_013.wav"
+}
+sound =
+{
+	name = "spanish_Moving_001"
+	file = "spanish/spanish_Moving_001.wav"
+}
+sound =
+{
+	name = "spanish_Moving_002"
+	file = "spanish/spanish_Moving_002.wav"
+}
+sound =
+{
+	name = "spanish_Moving_003"
+	file = "spanish/spanish_Moving_003.wav"
+}
+sound =
+{
+	name = "spanish_Moving_004"
+	file = "spanish/spanish_Moving_004.wav"
+}
+sound =
+{
+	name = "spanish_Moving_005"
+	file = "spanish/spanish_Moving_005.wav"
+}
+sound =
+{
+	name = "spanish_Moving_006"
+	file = "spanish/spanish_Moving_006.wav"
+}
+sound =
+{
+	name = "spanish_Moving_007"
+	file = "spanish/spanish_Moving_007.wav"
+}
+sound =
+{
+	name = "spanish_Moving_008"
+	file = "spanish/spanish_Moving_008.wav"
+}
+sound =
+{
+	name = "spanish_Moving_009"
+	file = "spanish/spanish_Moving_009.wav"
+}
+sound =
+{
+	name = "spanish_Moving_010"
+	file = "spanish/spanish_Moving_010.wav"
+}
+sound =
+{
+	name = "spanish_Moving_011"
+	file = "spanish/spanish_Moving_011.wav"
+}
+sound =
+{
+	name = "spanish_Moving_012"
+	file = "spanish/spanish_Moving_012.wav"
+}
+sound =
+{
+	name = "spanish_Neutral_001"
+	file = "spanish/spanish_Neutral_001.wav"
+}
+sound =
+{
+	name = "spanish_Neutral_002"
+	file = "spanish/spanish_Neutral_002.wav"
+}
+sound =
+{
+	name = "spanish_Neutral_003"
+	file = "spanish/spanish_Neutral_003.wav"
+}
+sound =
+{
+	name = "spanish_Neutral_004"
+	file = "spanish/spanish_Neutral_004.wav"
+}
+sound =
+{
+	name = "spanish_Neutral_005"
+	file = "spanish/spanish_Neutral_005.wav"
+}
+sound =
+{
+	name = "spanish_Neutral_006"
+	file = "spanish/spanish_Neutral_006.wav"
+}
+sound =
+{
+	name = "spanish_Neutral_007"
+	file = "spanish/spanish_Neutral_007.wav"
+}
+sound =
+{
+	name = "spanish_Neutral_008"
+	file = "spanish/spanish_Neutral_008.wav"
+}
+sound =
+{
+	name = "spanish_Positive_001"
+	file = "spanish/spanish_Positive_001.wav"
+}
+sound =
+{
+	name = "spanish_Positive_002"
+	file = "spanish/spanish_Positive_002.wav"
+}
+sound =
+{
+	name = "spanish_Positive_003"
+	file = "spanish/spanish_Positive_003.wav"
+}
+sound =
+{
+	name = "spanish_Positive_004"
+	file = "spanish/spanish_Positive_004.wav"
+}
+sound =
+{
+	name = "spanish_Positive_005"
+	file = "spanish/spanish_Positive_005.wav"
+}
+sound =
+{
+	name = "spanish_Positive_006"
+	file = "spanish/spanish_Positive_006.wav"
+}
+sound =
+{
+	name = "spanish_Positive_007"
+	file = "spanish/spanish_Positive_007.wav"
+}
+sound =
+{
+	name = "spanish_Positive_008"
+	file = "spanish/spanish_Positive_008.wav"
+}
+sound =
+{
+	name = "spanish_Retreat_001"
+	file = "spanish/spanish_Retreat_001.wav"
+}
+sound =
+{
+	name = "spanish_Retreat_002"
+	file = "spanish/spanish_Retreat_002.wav"
+}
+sound =
+{
+	name = "spanish_Retreat_003"
+	file = "spanish/spanish_Retreat_003.wav"
+}
+sound =
+{
+	name = "spanish_Retreat_004"
+	file = "spanish/spanish_Retreat_004.wav"
+}
+sound =
+{
+	name = "spanish_Retreat_005"
+	file = "spanish/spanish_Retreat_005.wav"
+}
+sound =
+{
+	name = "spanish_Retreat_006"
+	file = "spanish/spanish_Retreat_006.wav"
+}
+sound =
+{
+	name = "spanish_Retreat_007"
+	file = "spanish/spanish_Retreat_007.wav"
+}
+sound =
+{
+	name = "spanish_Retreat_008"
+	file = "spanish/spanish_Retreat_008.wav"
+}
+sound =
+{
+	name = "spanish_Retreat_009"
+	file = "spanish/spanish_Retreat_009.wav"
+}
+sound =
+{
+	name = "spanish_Retreat_010"
+	file = "spanish/spanish_Retreat_010.wav"
+}
+sound =
+{
+	name = "spanish_Retreat_011"
+	file = "spanish/spanish_Retreat_011.wav"
+}
+sound =
+{
+	name = "spanish_Retreat_012"
+	file = "spanish/spanish_Retreat_012.wav"
+}
+
+########## SPA
+
+soundeffect =
+{
+    name = "SPA_infantry_idle"
+    sounds = {
+        sound = spanish_Idle_001
+        sound = spanish_Idle_002
+        sound = spanish_Idle_003
+        sound = spanish_Idle_004
+        sound = spanish_Idle_005
+        sound = spanish_Idle_006
+        sound = spanish_Idle_007
+        sound = spanish_Idle_008
+        sound = spanish_Idle_009
+        sound = spanish_Idle_010
+        sound = spanish_Idle_011
+        sound = spanish_Idle_012
+        sound = spanish_Idle_013
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "SPA_infantry_neutral_combat"
+    sounds = {
+        sound = spanish_Neutral_001
+        sound = spanish_Neutral_002
+        sound = spanish_Neutral_003
+        sound = spanish_Neutral_004
+        sound = spanish_Neutral_005
+        sound = spanish_Neutral_006
+        sound = spanish_Neutral_007
+        sound = spanish_Neutral_008
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "SPA_infantry_positive_combat"
+    sounds = {
+        sound = spanish_Positive_001
+        sound = spanish_Positive_002
+        sound = spanish_Positive_003
+        sound = spanish_Positive_004
+        sound = spanish_Positive_005
+        sound = spanish_Positive_006
+        sound = spanish_Positive_007
+        sound = spanish_Positive_008
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "SPA_infantry_retreat"
+    sounds = {
+        sound = spanish_Retreat_001
+        sound = spanish_Retreat_002
+        sound = spanish_Retreat_003
+        sound = spanish_Retreat_004
+        sound = spanish_Retreat_005
+        sound = spanish_Retreat_006
+        sound = spanish_Retreat_007
+        sound = spanish_Retreat_008
+        sound = spanish_Retreat_009
+        sound = spanish_Retreat_010
+        sound = spanish_Retreat_011
+        sound = spanish_Retreat_012
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "SPA_infantry_move_out"
+    sounds = {
+        sound = spanish_Moving_001
+        sound = spanish_Moving_002
+        sound = spanish_Moving_003
+        sound = spanish_Moving_004
+        sound = spanish_Moving_005
+        sound = spanish_Moving_006
+        sound = spanish_Moving_007
+        sound = spanish_Moving_008
+        sound = spanish_Moving_009
+        sound = spanish_Moving_010
+        sound = spanish_Moving_011
+        sound = spanish_Moving_012
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+
+########## SPR
+
+soundeffect =
+{
+    name = "SPR_infantry_idle"
+    sounds = {
+        sound = spanish_Idle_001
+        sound = spanish_Idle_002
+        sound = spanish_Idle_003
+        sound = spanish_Idle_004
+        sound = spanish_Idle_005
+        sound = spanish_Idle_006
+        sound = spanish_Idle_007
+        sound = spanish_Idle_008
+        sound = spanish_Idle_009
+        sound = spanish_Idle_010
+        sound = spanish_Idle_011
+        sound = spanish_Idle_012
+        sound = spanish_Idle_013
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "SPR_infantry_neutral_combat"
+    sounds = {
+        sound = spanish_Neutral_001
+        sound = spanish_Neutral_002
+        sound = spanish_Neutral_003
+        sound = spanish_Neutral_004
+        sound = spanish_Neutral_005
+        sound = spanish_Neutral_006
+        sound = spanish_Neutral_007
+        sound = spanish_Neutral_008
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "SPR_infantry_positive_combat"
+    sounds = {
+        sound = spanish_Positive_001
+        sound = spanish_Positive_002
+        sound = spanish_Positive_003
+        sound = spanish_Positive_004
+        sound = spanish_Positive_005
+        sound = spanish_Positive_006
+        sound = spanish_Positive_007
+        sound = spanish_Positive_008
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "SPR_infantry_retreat"
+    sounds = {
+        sound = spanish_Retreat_001
+        sound = spanish_Retreat_002
+        sound = spanish_Retreat_003
+        sound = spanish_Retreat_004
+        sound = spanish_Retreat_005
+        sound = spanish_Retreat_006
+        sound = spanish_Retreat_007
+        sound = spanish_Retreat_008
+        sound = spanish_Retreat_009
+        sound = spanish_Retreat_010
+        sound = spanish_Retreat_011
+        sound = spanish_Retreat_012
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "SPR_infantry_move_out"
+    sounds = {
+        sound = spanish_Moving_001
+        sound = spanish_Moving_002
+        sound = spanish_Moving_003
+        sound = spanish_Moving_004
+        sound = spanish_Moving_005
+        sound = spanish_Moving_006
+        sound = spanish_Moving_007
+        sound = spanish_Moving_008
+        sound = spanish_Moving_009
+        sound = spanish_Moving_010
+        sound = spanish_Moving_011
+        sound = spanish_Moving_012
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+
+########## SWF
+
+soundeffect =
+{
+    name = "SWF_infantry_idle"
+    sounds = {
+        sound = spanish_Idle_001
+        sound = spanish_Idle_002
+        sound = spanish_Idle_003
+        sound = spanish_Idle_004
+        sound = spanish_Idle_005
+        sound = spanish_Idle_006
+        sound = spanish_Idle_007
+        sound = spanish_Idle_008
+        sound = spanish_Idle_009
+        sound = spanish_Idle_010
+        sound = spanish_Idle_011
+        sound = spanish_Idle_012
+        sound = spanish_Idle_013
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "SWF_infantry_neutral_combat"
+    sounds = {
+        sound = spanish_Neutral_001
+        sound = spanish_Neutral_002
+        sound = spanish_Neutral_003
+        sound = spanish_Neutral_004
+        sound = spanish_Neutral_005
+        sound = spanish_Neutral_006
+        sound = spanish_Neutral_007
+        sound = spanish_Neutral_008
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "SWF_infantry_positive_combat"
+    sounds = {
+        sound = spanish_Positive_001
+        sound = spanish_Positive_002
+        sound = spanish_Positive_003
+        sound = spanish_Positive_004
+        sound = spanish_Positive_005
+        sound = spanish_Positive_006
+        sound = spanish_Positive_007
+        sound = spanish_Positive_008
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "SWF_infantry_retreat"
+    sounds = {
+        sound = spanish_Retreat_001
+        sound = spanish_Retreat_002
+        sound = spanish_Retreat_003
+        sound = spanish_Retreat_004
+        sound = spanish_Retreat_005
+        sound = spanish_Retreat_006
+        sound = spanish_Retreat_007
+        sound = spanish_Retreat_008
+        sound = spanish_Retreat_009
+        sound = spanish_Retreat_010
+        sound = spanish_Retreat_011
+        sound = spanish_Retreat_012
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "SWF_infantry_move_out"
+    sounds = {
+        sound = spanish_Moving_001
+        sound = spanish_Moving_002
+        sound = spanish_Moving_003
+        sound = spanish_Moving_004
+        sound = spanish_Moving_005
+        sound = spanish_Moving_006
+        sound = spanish_Moving_007
+        sound = spanish_Moving_008
+        sound = spanish_Moving_009
+        sound = spanish_Moving_010
+        sound = spanish_Moving_011
+        sound = spanish_Moving_012
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+
+########## BAS
+
+soundeffect =
+{
+    name = "BAS_infantry_idle"
+    sounds = {
+        sound = spanish_Idle_001
+        sound = spanish_Idle_002
+        sound = spanish_Idle_003
+        sound = spanish_Idle_004
+        sound = spanish_Idle_005
+        sound = spanish_Idle_006
+        sound = spanish_Idle_007
+        sound = spanish_Idle_008
+        sound = spanish_Idle_009
+        sound = spanish_Idle_010
+        sound = spanish_Idle_011
+        sound = spanish_Idle_012
+        sound = spanish_Idle_013
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "BAS_infantry_neutral_combat"
+    sounds = {
+        sound = spanish_Neutral_001
+        sound = spanish_Neutral_002
+        sound = spanish_Neutral_003
+        sound = spanish_Neutral_004
+        sound = spanish_Neutral_005
+        sound = spanish_Neutral_006
+        sound = spanish_Neutral_007
+        sound = spanish_Neutral_008
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "BAS_infantry_positive_combat"
+    sounds = {
+        sound = spanish_Positive_001
+        sound = spanish_Positive_002
+        sound = spanish_Positive_003
+        sound = spanish_Positive_004
+        sound = spanish_Positive_005
+        sound = spanish_Positive_006
+        sound = spanish_Positive_007
+        sound = spanish_Positive_008
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "BAS_infantry_retreat"
+    sounds = {
+        sound = spanish_Retreat_001
+        sound = spanish_Retreat_002
+        sound = spanish_Retreat_003
+        sound = spanish_Retreat_004
+        sound = spanish_Retreat_005
+        sound = spanish_Retreat_006
+        sound = spanish_Retreat_007
+        sound = spanish_Retreat_008
+        sound = spanish_Retreat_009
+        sound = spanish_Retreat_010
+        sound = spanish_Retreat_011
+        sound = spanish_Retreat_012
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "BAS_infantry_move_out"
+    sounds = {
+        sound = spanish_Moving_001
+        sound = spanish_Moving_002
+        sound = spanish_Moving_003
+        sound = spanish_Moving_004
+        sound = spanish_Moving_005
+        sound = spanish_Moving_006
+        sound = spanish_Moving_007
+        sound = spanish_Moving_008
+        sound = spanish_Moving_009
+        sound = spanish_Moving_010
+        sound = spanish_Moving_011
+        sound = spanish_Moving_012
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+
+########## CAT
+
+soundeffect =
+{
+    name = "CAT_infantry_idle"
+    sounds = {
+        sound = spanish_Idle_001
+        sound = spanish_Idle_002
+        sound = spanish_Idle_003
+        sound = spanish_Idle_004
+        sound = spanish_Idle_005
+        sound = spanish_Idle_006
+        sound = spanish_Idle_007
+        sound = spanish_Idle_008
+        sound = spanish_Idle_009
+        sound = spanish_Idle_010
+        sound = spanish_Idle_011
+        sound = spanish_Idle_012
+        sound = spanish_Idle_013
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "CAT_infantry_neutral_combat"
+    sounds = {
+        sound = spanish_Neutral_001
+        sound = spanish_Neutral_002
+        sound = spanish_Neutral_003
+        sound = spanish_Neutral_004
+        sound = spanish_Neutral_005
+        sound = spanish_Neutral_006
+        sound = spanish_Neutral_007
+        sound = spanish_Neutral_008
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "CAT_infantry_positive_combat"
+    sounds = {
+        sound = spanish_Positive_001
+        sound = spanish_Positive_002
+        sound = spanish_Positive_003
+        sound = spanish_Positive_004
+        sound = spanish_Positive_005
+        sound = spanish_Positive_006
+        sound = spanish_Positive_007
+        sound = spanish_Positive_008
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "CAT_infantry_retreat"
+    sounds = {
+        sound = spanish_Retreat_001
+        sound = spanish_Retreat_002
+        sound = spanish_Retreat_003
+        sound = spanish_Retreat_004
+        sound = spanish_Retreat_005
+        sound = spanish_Retreat_006
+        sound = spanish_Retreat_007
+        sound = spanish_Retreat_008
+        sound = spanish_Retreat_009
+        sound = spanish_Retreat_010
+        sound = spanish_Retreat_011
+        sound = spanish_Retreat_012
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "CAT_infantry_move_out"
+    sounds = {
+        sound = spanish_Moving_001
+        sound = spanish_Moving_002
+        sound = spanish_Moving_003
+        sound = spanish_Moving_004
+        sound = spanish_Moving_005
+        sound = spanish_Moving_006
+        sound = spanish_Moving_007
+        sound = spanish_Moving_008
+        sound = spanish_Moving_009
+        sound = spanish_Moving_010
+        sound = spanish_Moving_011
+        sound = spanish_Moving_012
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+
+########## GLC
+
+soundeffect =
+{
+    name = "GLC_infantry_idle"
+    sounds = {
+        sound = spanish_Idle_001
+        sound = spanish_Idle_002
+        sound = spanish_Idle_003
+        sound = spanish_Idle_004
+        sound = spanish_Idle_005
+        sound = spanish_Idle_006
+        sound = spanish_Idle_007
+        sound = spanish_Idle_008
+        sound = spanish_Idle_009
+        sound = spanish_Idle_010
+        sound = spanish_Idle_011
+        sound = spanish_Idle_012
+        sound = spanish_Idle_013
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "GLC_infantry_neutral_combat"
+    sounds = {
+        sound = spanish_Neutral_001
+        sound = spanish_Neutral_002
+        sound = spanish_Neutral_003
+        sound = spanish_Neutral_004
+        sound = spanish_Neutral_005
+        sound = spanish_Neutral_006
+        sound = spanish_Neutral_007
+        sound = spanish_Neutral_008
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "GLC_infantry_positive_combat"
+    sounds = {
+        sound = spanish_Positive_001
+        sound = spanish_Positive_002
+        sound = spanish_Positive_003
+        sound = spanish_Positive_004
+        sound = spanish_Positive_005
+        sound = spanish_Positive_006
+        sound = spanish_Positive_007
+        sound = spanish_Positive_008
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "GLC_infantry_retreat"
+    sounds = {
+        sound = spanish_Retreat_001
+        sound = spanish_Retreat_002
+        sound = spanish_Retreat_003
+        sound = spanish_Retreat_004
+        sound = spanish_Retreat_005
+        sound = spanish_Retreat_006
+        sound = spanish_Retreat_007
+        sound = spanish_Retreat_008
+        sound = spanish_Retreat_009
+        sound = spanish_Retreat_010
+        sound = spanish_Retreat_011
+        sound = spanish_Retreat_012
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "GLC_infantry_move_out"
+    sounds = {
+        sound = spanish_Moving_001
+        sound = spanish_Moving_002
+        sound = spanish_Moving_003
+        sound = spanish_Moving_004
+        sound = spanish_Moving_005
+        sound = spanish_Moving_006
+        sound = spanish_Moving_007
+        sound = spanish_Moving_008
+        sound = spanish_Moving_009
+        sound = spanish_Moving_010
+        sound = spanish_Moving_011
+        sound = spanish_Moving_012
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+
+########## ADU
+
+soundeffect =
+{
+    name = "ADU_infantry_idle"
+    sounds = {
+        sound = spanish_Idle_001
+        sound = spanish_Idle_002
+        sound = spanish_Idle_003
+        sound = spanish_Idle_004
+        sound = spanish_Idle_005
+        sound = spanish_Idle_006
+        sound = spanish_Idle_007
+        sound = spanish_Idle_008
+        sound = spanish_Idle_009
+        sound = spanish_Idle_010
+        sound = spanish_Idle_011
+        sound = spanish_Idle_012
+        sound = spanish_Idle_013
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "ADU_infantry_neutral_combat"
+    sounds = {
+        sound = spanish_Neutral_001
+        sound = spanish_Neutral_002
+        sound = spanish_Neutral_003
+        sound = spanish_Neutral_004
+        sound = spanish_Neutral_005
+        sound = spanish_Neutral_006
+        sound = spanish_Neutral_007
+        sound = spanish_Neutral_008
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "ADU_infantry_positive_combat"
+    sounds = {
+        sound = spanish_Positive_001
+        sound = spanish_Positive_002
+        sound = spanish_Positive_003
+        sound = spanish_Positive_004
+        sound = spanish_Positive_005
+        sound = spanish_Positive_006
+        sound = spanish_Positive_007
+        sound = spanish_Positive_008
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "ADU_infantry_retreat"
+    sounds = {
+        sound = spanish_Retreat_001
+        sound = spanish_Retreat_002
+        sound = spanish_Retreat_003
+        sound = spanish_Retreat_004
+        sound = spanish_Retreat_005
+        sound = spanish_Retreat_006
+        sound = spanish_Retreat_007
+        sound = spanish_Retreat_008
+        sound = spanish_Retreat_009
+        sound = spanish_Retreat_010
+        sound = spanish_Retreat_011
+        sound = spanish_Retreat_012
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+soundeffect =
+{
+    name = "ADU_infantry_move_out"
+    sounds = {
+        sound = spanish_Moving_001
+        sound = spanish_Moving_002
+        sound = spanish_Moving_003
+        sound = spanish_Moving_004
+        sound = spanish_Moving_005
+        sound = spanish_Moving_006
+        sound = spanish_Moving_007
+        sound = spanish_Moving_008
+        sound = spanish_Moving_009
+        sound = spanish_Moving_010
+        sound = spanish_Moving_011
+        sound = spanish_Moving_012
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}

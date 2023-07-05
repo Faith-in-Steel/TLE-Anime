@@ -1,0 +1,540 @@
+
+category = {
+	name = "Voices"
+	soundeffects = {
+	### Polish Language, ripped from Call of Duty: WWII by NooN ###
+	# POL PLC GAL
+	POL_infantry_idle
+	POL_infantry_neutral_combat
+	POL_infantry_positive_combat
+	POL_infantry_retreat
+	POL_infantry_move_out
+
+	PLC_infantry_idle
+	PLC_infantry_neutral_combat
+	PLC_infantry_positive_combat
+	PLC_infantry_retreat
+	PLC_infantry_move_out
+
+	GAL_infantry_idle
+	GAL_infantry_neutral_combat
+	GAL_infantry_positive_combat
+	GAL_infantry_retreat
+	GAL_infantry_move_out
+	}
+}
+
+########### AUDIO ASSETS
+########### Polish
+sound = {
+	name = "polish_Idle_001"
+	file = "polish/polish_Idle_001.wav"
+}
+sound = {
+	name = "polish_Idle_002"
+	file = "polish/polish_Idle_002.wav"
+}
+sound = {
+	name = "polish_Idle_003"
+	file = "polish/polish_Idle_003.wav"
+}
+sound = {
+	name = "polish_Idle_004"
+	file = "polish/polish_Idle_004.wav"
+}
+sound = {
+	name = "polish_Idle_005"
+	file = "polish/polish_Idle_005.wav"
+}
+sound = {
+	name = "polish_Idle_006"
+	file = "polish/polish_Idle_006.wav"
+}
+sound = {
+	name = "polish_Idle_007"
+	file = "polish/polish_Idle_007.wav"
+}
+sound = {
+	name = "polish_Idle_008"
+	file = "polish/polish_Idle_008.wav"
+}
+sound = {
+	name = "polish_Neutral_001"
+	file = "polish/polish_Neutral_001.wav"
+}
+sound = {
+	name = "polish_Neutral_002"
+	file = "polish/polish_Neutral_002.wav"
+}
+sound = {
+	name = "polish_Neutral_003"
+	file = "polish/polish_Neutral_003.wav"
+}
+sound = {
+	name = "polish_Neutral_004"
+	file = "polish/polish_Neutral_004.wav"
+}
+sound = {
+	name = "polish_Neutral_005"
+	file = "polish/polish_Neutral_005.wav"
+}
+sound = {
+	name = "polish_Neutral_006"
+	file = "polish/polish_Neutral_006.wav"
+}
+sound = {
+	name = "polish_Neutral_007"
+	file = "polish/polish_Neutral_007.wav"
+}
+sound = {
+	name = "polish_Neutral_008"
+	file = "polish/polish_Neutral_008.wav"
+}
+sound = {
+	name = "polish_Neutral_009"
+	file = "polish/polish_Neutral_009.wav"
+}
+sound = {
+	name = "polish_Positive_001"
+	file = "polish/polish_Positive_001.wav"
+}
+sound = {
+	name = "polish_Positive_002"
+	file = "polish/polish_Positive_002.wav"
+}
+sound = {
+	name = "polish_Positive_003"
+	file = "polish/polish_Positive_003.wav"
+}
+sound = {
+	name = "polish_Positive_004"
+	file = "polish/polish_Positive_004.wav"
+}
+sound = {
+	name = "polish_Positive_005"
+	file = "polish/polish_Positive_005.wav"
+}
+sound = {
+	name = "polish_Positive_006"
+	file = "polish/polish_Positive_006.wav"
+}
+sound = {
+	name = "polish_Positive_007"
+	file = "polish/polish_Positive_007.wav"
+}
+sound = {
+	name = "polish_Positive_008"
+	file = "polish/polish_Positive_008.wav"
+}
+sound = {
+	name = "polish_Positive_009"
+	file = "polish/polish_Positive_009.wav"
+}
+sound = {
+	name = "polish_Positive_010"
+	file = "polish/polish_Positive_010.wav"
+}
+sound = {
+	name = "polish_Positive_011"
+	file = "polish/polish_Positive_011.wav"
+}
+sound = {
+	name = "polish_Retreat_001"
+	file = "polish/polish_Retreat_001.wav"
+}
+sound = {
+	name = "polish_Retreat_002"
+	file = "polish/polish_Retreat_002.wav"
+}
+sound = {
+	name = "polish_Retreat_003"
+	file = "polish/polish_Retreat_003.wav"
+}
+sound = {
+	name = "polish_Retreat_004"
+	file = "polish/polish_Retreat_004.wav"
+}
+sound = {
+	name = "polish_Retreat_005"
+	file = "polish/polish_Retreat_005.wav"
+}
+sound = {
+	name = "polish_Retreat_006"
+	file = "polish/polish_Retreat_006.wav"
+}
+sound = {
+	name = "polish_Retreat_007"
+	file = "polish/polish_Retreat_007.wav"
+}
+sound = {
+	name = "polish_Retreat_008"
+	file = "polish/polish_Retreat_008.wav"
+}
+sound = {
+	name = "polish_Retreat_009"
+	file = "polish/polish_Retreat_009.wav"
+}
+sound = {
+	name = "polish_Retreat_010"
+	file = "polish/polish_Retreat_010.wav"
+}
+sound = {
+	name = "polish_Retreat_011"
+	file = "polish/polish_Retreat_011.wav"
+}
+sound = {
+	name = "polish_Retreat_012"
+	file = "polish/polish_Retreat_012.wav"
+}
+sound = {
+	name = "polish_Retreat_013"
+	file = "polish/polish_Retreat_013.wav"
+}
+sound = {
+	name = "polish_Retreat_014"
+	file = "polish/polish_Retreat_014.wav"
+}
+sound = {
+	name = "polish_Retreat_015"
+	file = "polish/polish_Retreat_015.wav"
+}
+sound = {
+	name = "polish_Moving_001"
+	file = "polish/polish_Moving_001.wav"
+}
+sound = {
+	name = "polish_Moving_002"
+	file = "polish/polish_Moving_002.wav"
+}
+sound = {
+	name = "polish_Moving_003"
+	file = "polish/polish_Moving_003.wav"
+}
+sound = {
+	name = "polish_Moving_004"
+	file = "polish/polish_Moving_004.wav"
+}
+sound = {
+	name = "polish_Moving_005"
+	file = "polish/polish_Moving_005.wav"
+}
+sound = {
+	name = "polish_Moving_006"
+	file = "polish/polish_Moving_006.wav"
+}
+sound = {
+	name = "polish_Moving_007"
+	file = "polish/polish_Moving_007.wav"
+}
+
+########## POL
+
+soundeffect = {
+    name = "POL_infantry_idle"
+    sounds = {
+		sound = polish_Idle_001
+		sound = polish_Idle_002
+		sound = polish_Idle_003
+		sound = polish_Idle_004
+		sound = polish_Idle_005
+		sound = polish_Idle_006
+		sound = polish_Idle_007
+		sound = polish_Idle_008
+	}
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+soundeffect = {
+    name = "POL_infantry_neutral_combat"
+    sounds = {
+		sound = polish_Neutral_001
+		sound = polish_Neutral_002
+		sound = polish_Neutral_003
+		sound = polish_Neutral_004
+		sound = polish_Neutral_005
+		sound = polish_Neutral_006
+		sound = polish_Neutral_007
+		sound = polish_Neutral_008
+		sound = polish_Neutral_009
+	}
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+soundeffect = {
+    name = "POL_infantry_positive_combat"
+    sounds = {
+		sound = polish_Positive_001
+		sound = polish_Positive_002
+		sound = polish_Positive_003
+		sound = polish_Positive_004
+		sound = polish_Positive_005
+		sound = polish_Positive_006
+		sound = polish_Positive_007
+		sound = polish_Positive_008
+		sound = polish_Positive_009
+		sound = polish_Positive_010
+		sound = polish_Positive_011
+	}
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+soundeffect = {
+    name = "POL_infantry_retreat"
+    sounds = {
+		sound = polish_Retreat_001
+		sound = polish_Retreat_002
+		sound = polish_Retreat_003
+		sound = polish_Retreat_004
+		sound = polish_Retreat_005
+		sound = polish_Retreat_006
+		sound = polish_Retreat_007
+		sound = polish_Retreat_008
+		sound = polish_Retreat_009
+		sound = polish_Retreat_010
+		sound = polish_Retreat_011
+		sound = polish_Retreat_012
+		sound = polish_Retreat_013
+		sound = polish_Retreat_014
+		sound = polish_Retreat_015
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+soundeffect =
+{
+    name = "POL_infantry_move_out"
+    sounds = {
+        sound = polish_Moving_001
+        sound = polish_Moving_002
+        sound = polish_Moving_003
+        sound = polish_Moving_004
+        sound = polish_Moving_005
+        sound = polish_Moving_006
+        sound = polish_Moving_007
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+
+########## PLC
+
+soundeffect = {
+    name = "PLC_infantry_idle"
+    sounds = {
+		sound = polish_Idle_001
+		sound = polish_Idle_002
+		sound = polish_Idle_003
+		sound = polish_Idle_004
+		sound = polish_Idle_005
+		sound = polish_Idle_006
+		sound = polish_Idle_007
+		sound = polish_Idle_008
+	}
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+soundeffect = {
+    name = "PLC_infantry_neutral_combat"
+    sounds = {
+		sound = polish_Neutral_001
+		sound = polish_Neutral_002
+		sound = polish_Neutral_003
+		sound = polish_Neutral_004
+		sound = polish_Neutral_005
+		sound = polish_Neutral_006
+		sound = polish_Neutral_007
+		sound = polish_Neutral_008
+		sound = polish_Neutral_009
+	}
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+soundeffect = {
+    name = "PLC_infantry_positive_combat"
+    sounds = {
+		sound = polish_Positive_001
+		sound = polish_Positive_002
+		sound = polish_Positive_003
+		sound = polish_Positive_004
+		sound = polish_Positive_005
+		sound = polish_Positive_006
+		sound = polish_Positive_007
+		sound = polish_Positive_008
+		sound = polish_Positive_009
+		sound = polish_Positive_010
+		sound = polish_Positive_011
+	}
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+soundeffect = {
+    name = "PLC_infantry_retreat"
+    sounds = {
+		sound = polish_Retreat_001
+		sound = polish_Retreat_002
+		sound = polish_Retreat_003
+		sound = polish_Retreat_004
+		sound = polish_Retreat_005
+		sound = polish_Retreat_006
+		sound = polish_Retreat_007
+		sound = polish_Retreat_008
+		sound = polish_Retreat_009
+		sound = polish_Retreat_010
+		sound = polish_Retreat_011
+		sound = polish_Retreat_012
+		sound = polish_Retreat_013
+		sound = polish_Retreat_014
+		sound = polish_Retreat_015
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+soundeffect =
+{
+    name = "PLC_infantry_move_out"
+    sounds = {
+        sound = polish_Moving_001
+        sound = polish_Moving_002
+        sound = polish_Moving_003
+        sound = polish_Moving_004
+        sound = polish_Moving_005
+        sound = polish_Moving_006
+        sound = polish_Moving_007
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
+
+########## GAL
+
+soundeffect = {
+    name = "GAL_infantry_idle"
+    sounds = {
+		sound = polish_Idle_001
+		sound = polish_Idle_002
+		sound = polish_Idle_003
+		sound = polish_Idle_004
+		sound = polish_Idle_005
+		sound = polish_Idle_006
+		sound = polish_Idle_007
+		sound = polish_Idle_008
+	}
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+soundeffect = {
+    name = "GAL_infantry_neutral_combat"
+    sounds = {
+		sound = polish_Neutral_001
+		sound = polish_Neutral_002
+		sound = polish_Neutral_003
+		sound = polish_Neutral_004
+		sound = polish_Neutral_005
+		sound = polish_Neutral_006
+		sound = polish_Neutral_007
+		sound = polish_Neutral_008
+		sound = polish_Neutral_009
+	}
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+soundeffect = {
+    name = "GAL_infantry_positive_combat"
+    sounds = {
+		sound = polish_Positive_001
+		sound = polish_Positive_002
+		sound = polish_Positive_003
+		sound = polish_Positive_004
+		sound = polish_Positive_005
+		sound = polish_Positive_006
+		sound = polish_Positive_007
+		sound = polish_Positive_008
+		sound = polish_Positive_009
+		sound = polish_Positive_010
+		sound = polish_Positive_011
+	}
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+soundeffect = {
+    name = "GAL_infantry_retreat"
+    sounds = {
+		sound = polish_Retreat_001
+		sound = polish_Retreat_002
+		sound = polish_Retreat_003
+		sound = polish_Retreat_004
+		sound = polish_Retreat_005
+		sound = polish_Retreat_006
+		sound = polish_Retreat_007
+		sound = polish_Retreat_008
+		sound = polish_Retreat_009
+		sound = polish_Retreat_010
+		sound = polish_Retreat_011
+		sound = polish_Retreat_012
+		sound = polish_Retreat_013
+		sound = polish_Retreat_014
+		sound = polish_Retreat_015
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15 }
+}
+soundeffect =
+{
+    name = "GAL_infantry_move_out"
+    sounds = {
+        sound = polish_Moving_001
+        sound = polish_Moving_002
+        sound = polish_Moving_003
+        sound = polish_Moving_004
+        sound = polish_Moving_005
+        sound = polish_Moving_006
+        sound = polish_Moving_007
+    }
+	max_audible = 1
+	max_audible_behaviour = fail
+	volume = 0.45
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 -0.15}
+}
